@@ -1,0 +1,120 @@
+nav.top {
+    float: right;
+}
+
+nav.top ul li {
+    display: inline-block;
+    padding: 4px;
+}
+
+.bell{
+    height: 20px;
+}
+
+*{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.profile{
+    height: 22px;
+}
+
+.signin{
+    background-color: #419bf4;
+    padding: 5px;
+    font-size: 14px;
+    height: 25px;
+    border-radius: 5px;
+    font-family: Arial;
+}
+
+.gimg{
+    height: auto;
+    width: auto;
+    padding-top: 100px;
+    padding-left: 475px;
+}
+
+div input.searchbox {
+    margin-left: 422px;
+    padding-left: 100px;
+    height: 25px;
+    width: 300px;
+}
+
+div.btn{
+    margin-left: 510px;
+    margin-top: 18px;
+    height: 40px;
+}
+
+button.gsearch{
+    padding: 5px;
+}
+
+button.lucky{
+    padding: 5px;
+}
+
+div.offered{
+    margin-left: 385px;
+    margin-bottom: 160px;
+}
+div.offered p span a{
+    color: blue;
+}
+
+
+div.ind{
+    padding-left: 15px;
+    background-color: #e4e4e4;
+    width:100%;
+    clear: both;
+    border-bottom: 1px solid lightgrey;
+    font-family: Arial;
+    padding-top: 3px;
+    color: darkgrey;
+}
+div.bottomnav{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    clear: both;
+    background-color: #e4e4e4;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+div.bottomnav p{
+    display: inline-block;
+    font-family: Arial;
+    font-size: 13px;
+
+}
+
+div.bottomnav p.left{
+    padding-left: 15px;
+}
+div.bottomnav p.right{
+    float: right;
+    padding-right: 20px;
+}
+
+.left a{
+    color: grey;
+}
+
+.right a{
+    color: grey;
+}
+
+*{
+    font-family: Arial;
+}
+
+
