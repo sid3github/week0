@@ -1,0 +1,20 @@
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 10px 25px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    display: inline-block;
+    color: #419bf4;
+}
+
+.active, .btn:hover {
+
+    color: black;
+}
+
+.nav{
+    margin-top: 25px;
+    width: fit-content;
+}
